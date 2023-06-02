@@ -1,2 +1,2 @@
 # flutter_pdf_demo
-flutter中文字生成pdf的demo
+flutter的web平台文字生成pdf的demo
